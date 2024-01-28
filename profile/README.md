@@ -198,11 +198,13 @@ Here are some resources we made use of while developing, for those who wish to b
 
 ## Citation
 
+If you use MorteSense in your research, please cite the following work:
+
 ```ts
 @misc{MorteSense-2023,
   author       = {{S. Abdulkhamidov} and {D. Cruz} and {D. G. Carrasco} and {S. Gevorgyan}},
   title        = {MorteSense: DIY Home Security},
-  howpublished = {\url{https://github.com/diego-ruben-cruz/MorteSense}},
+  howpublished = {\url{https://github.com/MorteSense}},
   year         = {2023},
 }
 ```
