@@ -4,8 +4,6 @@
 <!-- [![Forks][forks-shield]][forks-url] -->
 <!-- [![Stargazers][stars-shield]][stars-url] -->
 
-[![Issues][issues-shield]][issues-url]
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -33,8 +31,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-<img width="1012" alt="image" src="https://github.com/diego-ruben-cruz/MorteSense/assets/22685770/87117ac6-9d99-415a-bb4e-8ee2301747c8">
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
@@ -200,7 +196,7 @@ Here are some resources we made use of while developing, for those who wish to b
 
 If you use MorteSense in your research, please cite the following work:
 
-```ts
+```tex
 @misc{MorteSense-2023,
   author       = {{S. Abdulkhamidov} and {D. Cruz} and {D. G. Carrasco} and {S. Gevorgyan}},
   title        = {MorteSense: DIY Home Security},
