@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-## Overview
-
 We strive to build a comprehensive open-source, customizable, multi-tiered, end-to-end system comprised of several elements
 
 - A web-based application enabling users to oversee their sensor' data
