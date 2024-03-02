@@ -1,58 +1,14 @@
 <a name="readme-top"></a>
 
-<!-- [![Contributors][contributors-shield]][contributors-url] -->
-<!-- [![Forks][forks-shield]][forks-url] -->
-<!-- [![Stargazers][stars-shield]][stars-url] -->
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#inspiration">Inspiration</a></li>
-    <li><a href="#challenges-we-ran-into">Challenges we ran into</a></li>
-    <li><a href="#accomplishments-we-are-proud-of">Accomplishments we're proud of</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites-and-installation">Prerequisites and Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#citation">Citation</a></li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+## Overview
 
 We strive to build a comprehensive open-source, customizable, multi-tiered, end-to-end system comprised of several elements
 
-- A web-based application enabling customers to oversee their sensor' data
+- A web-based application enabling users to oversee their sensor' data
 - A MorteSense API responsible for processing requests coming from the client app
 - A database designed to maintain records of users and sensors
 
-## Inspiration
-
-- State of the Art: Passive Infrared (PIR) Motion Sensor Systems
-
-## Challenges we ran into
-
-- Power Delivery
-- Enclosure Design and Prototyping
-
-## Accomplishments we are proud of
-
-- Learning LaTeX to create the final project report
-- Using CAD to design a high-fidelity rendition of microcontroller for reference
+The project is designed to be customizable, allowing the use of alternative tools and technologies. The provided information serves as a baseline, and users can adapt the project to their preferences and requirements. Testing has been performed using the mentioned tools, but the solution can be tailored to accommodate different technologies as needed.
 
 ## Architecture
 
@@ -80,12 +36,6 @@ We strive to build a comprehensive open-source, customizable, multi-tiered, end-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-The project is designed to be customizable, allowing the use of alternative tools and technologies. The provided information serves as a baseline, and users can adapt the project to their preferences and requirements. Testing has been performed using the mentioned tools, but the solution can be tailored to accommodate different technologies as needed.
 
 ## Roadmap
 
