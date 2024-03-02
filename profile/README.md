@@ -87,71 +87,6 @@ We strive to build a comprehensive open-source, customizable, multi-tiered, end-
 
 The project is designed to be customizable, allowing the use of alternative tools and technologies. The provided information serves as a baseline, and users can adapt the project to their preferences and requirements. Testing has been performed using the mentioned tools, but the solution can be tailored to accommodate different technologies as needed.
 
-#### Hardware
-
-1. Raspberry Pi Pico W Microcontroller
-2. CQRobot 5.8GHz Microwave Motion Sensor
-3. Red and Green Bulbs
-4. 100 Ohm Resistors
-5. Fritzing Circuit Design Software
-6. Solidworks (or any CAD Program)
-
-#### Backend
-
-1. Requirements.txt
-2. Redis server
-3. Python Flask
-4. MySQL
-5. AWS
-6. Twilio API
-
-Additional Notes:
-* The backend solution includes a requirements.txt file outlining the necessary dependencies.
-* A Redis server is used for caching and session management.
-* Python Flask is the chosen web framework for the backend.
-MySQL is utilized for data storage.
-* AWS services are employed for various functionalities.
-* The Twilio API is integrated for communication purposes.
-
-#### Frontend
-
-1. NodeJS
-2. ReactJS
-3. Tailwind CSS
-
-Additional Notes:
-* NodeJS is used for server-side scripting.
-* ReactJS is the chosen JavaScript library for building user interfaces.
-* Tailwind CSS is employed for styling the frontend components.
-
-#### API Tooling
-
-1. Postman
-* Used for API development and testing.
-
-2. AWS RDS connection
-* Establishes the connection between the backend and the AWS Relational Database Service (RDS).
-
-#### Installing Dependencies
-
-In the root directory:
-
-Run the following command in client side:
-
-```cmd
-npm i
-```
-
-In backend folder:
-
-Run the following command using pip:
-
-```cmd
-pip3 install -r requirements.txt
-```
-
-<!-- ROADMAP -->
-
 ## Roadmap
 
 - [x] Project Planning (Spring 2023)
@@ -174,8 +109,6 @@ pip3 install -r requirements.txt
   - [x] Prepare product for public release with Project Report
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
 
 ## Citation
 
