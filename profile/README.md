@@ -2,8 +2,6 @@
 
 ![architecture](https://github.com/MorteSense/.github/assets/22685770/99431453-0ff7-4580-b29c-81588c65fe7d)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -23,8 +21,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Citation
 
 If you use MorteSense in your research, please cite the following work:
@@ -37,16 +33,6 @@ If you use MorteSense in your research, please cite the following work:
   year         = {2023},
 }
 ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the Apache 2.0 License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
