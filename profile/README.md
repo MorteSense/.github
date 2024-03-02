@@ -12,7 +12,7 @@ The project is designed to be customizable, allowing the use of alternative tool
 
 ## Architecture
 
-<img width="567" alt="image" src="https://github.com/diego-ruben-cruz/MorteSense/assets/22685770/ce273ef4-fefb-475e-800a-c3fdb1f1103f">
+![architecture](https://github.com/MorteSense/.github/assets/22685770/99431453-0ff7-4580-b29c-81588c65fe7d)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
