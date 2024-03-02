@@ -1,15 +1,5 @@
 <a name="readme-top"></a>
 
-We strive to build a comprehensive open-source, customizable, multi-tiered, end-to-end system comprised of several elements
-
-- A web-based application enabling users to oversee their sensor' data
-- A MorteSense API responsible for processing requests coming from the client app
-- A database designed to maintain records of users and sensors
-
-The project is designed to be customizable, allowing the use of alternative tools and technologies. The provided information serves as a baseline, and users can adapt the project to their preferences and requirements. Testing has been performed using the mentioned tools, but the solution can be tailored to accommodate different technologies as needed.
-
-## Architecture
-
 ![architecture](https://github.com/MorteSense/.github/assets/22685770/99431453-0ff7-4580-b29c-81588c65fe7d)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -32,29 +22,6 @@ The project is designed to be customizable, allowing the use of alternative tool
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Roadmap
-
-- [x] Project Planning (Spring 2023)
-
-  - [x] Created Project Schedule
-  - [x] Created Software Specifications/Requirements Document
-  - [x] Created Semi-Formal Project Progress Report
-  - [x] Created GANTT Chart for Project Development Progress
-  - [x] Peformed basic hardware interfacing and diagnostics
-
-- Released Beta (Summer 2023)
-
-  - [x] Create Initial Pages for web app client
-  - [x] Create CAD for Microcontroller
-  - [x] Created low-fidelity enclosure (changed because of modified form factor)
-
-- Product Launch (Fall 2023)
-  - [x] Test full-fledged prototype
-  - [x] Perform final revisions on product
-  - [x] Prepare product for public release with Project Report
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
