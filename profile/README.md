@@ -177,21 +177,6 @@ pip3 install -r requirements.txt
 
 <!-- ACKNOWLEDGMENTS -->
 
-## Acknowledgments
-
-Here are some resources we made use of while developing, for those who wish to build on our work:
-
-- [Flask Documentation](https://flask.palletsprojects.com/)
-- [ReactJS Documentation](https://reactjs.org/)
-- [React Router Documentation](https://reactrouter.com/)
-- [Raspberry Pi Pico W Documentation](https://www.raspberrypi.org/documentation/pico/)
-- [Raspberry Pi Pico W SDK](https://github.com/raspberrypi/pico-sdk/)
-- [TailwindCSS Documentation](https://tailwindcss.com/docs)
-- [Redis Documentation](https://redis.io/documentation)
-- [Axios Documentation](https://axios-http.com/docs/intro)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Citation
 
 If you use MorteSense in your research, please cite the following work:
